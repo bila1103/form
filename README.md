@@ -102,8 +102,7 @@
                         <tr>
                         <td><h4>*foto bebas ukuran 4x6</h4></td>
                     </tr>
-                </table>
-            </fieldset>
+                
             <fieldset class="T2">
                 <table>
                     <legend><b>DATA SEKOLAH</b></legend>

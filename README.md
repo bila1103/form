@@ -59,7 +59,7 @@
                                 <option value="HINDU">HINDU</option>
                                 <option value="KONGHUCU">KONGHUCU</option>
                             </select>
-                    </tr>
+                    
 
                     <tr>
                         <td> HOBI :</td>
@@ -92,7 +92,7 @@
                         <td>
 
                             <textarea name="alamat" id="alamat">--isi alamat--</textarea>
-                            </textarea>
+                        
                         </td>
                     </tr>
                     <tr>
@@ -161,7 +161,7 @@
                                 <option value="HINDU">PAPUA SELATAN</option>
                                 <option value="HINDU">PAPUA BARAT DAYA</option>
                             </select>
-                    </tr>
+            
                     <tr>
                         <td> <label for="kk">kota/kabupaten :</label> </td>
                         <td> <input type="text " id="kk" name="kk"></td>
@@ -171,7 +171,7 @@
                         <td>
 
                             <textarea name="alamat" id="alamat">--isi alamat--</textarea>
-                            </textarea>
+                        
                         </td>
                     </tr>
                 </table>
